@@ -40,7 +40,7 @@ The appropriate packages consists of
 - npm install doetenv
 - npm install express
 
-### Dependencies
+## Dependencies
 
 ```
 "dependencies": {
@@ -196,7 +196,7 @@ The seeds directory contains a seed for category, product, product-tag, tag, and
 command the ecommerce_db in mysql workbench was seeded and verified on mysql workbench.
 
 
-### Associations
+## Associations
 
 In the index.js file of models directory the associations were created with these methods `belongsTo`, `hasMany`, `belongsToMany` were used to associate the appropriate tables
 
@@ -205,7 +205,7 @@ In the index.js file of models directory the associations were created with thes
 Insomnia Walk Through
 https://youtu.be/xQemFWT0NO8
 
-### All CRUD operations successful with use of **GET, POST,PUT, DELETE.**
+## All CRUD operations successful with use of **GET, POST,PUT, DELETE.**
 
 [![Insomnia Back End Walk Through ](http://img.youtube.com/vi/xQemFWT0NO8/0.jpg)](http://www.youtube.com/watch?v=xQemFWT0NO8)
 
@@ -213,10 +213,9 @@ https://youtu.be/xQemFWT0NO8
 
 ---
 
-### VS Code Walk Through
+## VS Code Walk Through
 
-https://youtu.be/qphroketAyg
-[![VS Code Walk Through](http://img.youtube.com/vi/qphroketAyg/0.jpg)](http://www.youtube.com/watch?v=qphroketAyg "Ecommerce Code Walk through")
+[![VS Code Walk Through](http://img.youtube.com/vi/2jpFEAxsDJc/0.jpg)](http://www.youtube.com/watch?v=2jpFEAxsDJc "Ecommerce Code Walk through")
 
 ## Credits
 
@@ -234,7 +233,7 @@ https://sequelize.org/master/manual/model-querying-finders.html
 
 
 
-### Acceptance Criteria
+## Acceptance Criteria
 
 - A functional Express.js API will add my database name, MySQL username, and MySQL password to an environment variable file.
 
